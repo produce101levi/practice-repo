@@ -2,4 +2,4 @@ function sayHi(name){
     return `Hi, ${name}`;
 }
 
-module.exports = { sayHi };
+module.exports = sayHi;
